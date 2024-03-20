@@ -1,3 +1,9 @@
 <template>
-  <h1>oii</h1>
+  <div>
+    <RouterView />
+  </div>
 </template>
+
+<script setup></script>
+
+<style></style>
